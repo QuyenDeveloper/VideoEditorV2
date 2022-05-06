@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoEditorV2</string>
+    <string-array name="rangeBar">
+        <item>20</item>
+        <item>70</item>
+    </string-array>
+</resources>
